@@ -1,8 +1,0 @@
-orderID,numHamburgers,numCheeseburgers,numVeggieburgers,numSodas,toGo
-4,3,15,4,10,true
-5,2,1,2,1,false
-6,5,5,5,5,true
-7,11,19,2,1,false
-8,6,4,3,4,false
-9,2,8,9,4,false
-10,9,3,1,1,true
