@@ -1,0 +1,4 @@
+End of Day Report:
+Order 1: 3 Hamburgers, 15 Cheeseburgers, 4 Veggieburgers, 10 Sodas, Pickup, Completed.
+Order 2: 10 Hamburgers, 10 Cheeseburgers, 3 Veggieburgers, 4 Sodas, To-go, Completed.
+Order 3: 1 Hamburgers, 1 Cheeseburgers, 1 Veggieburgers, 2 Sodas, Pickup, Completed. 
